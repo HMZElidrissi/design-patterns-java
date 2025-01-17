@@ -5,6 +5,7 @@ This repository serves as a collection of design patterns implemented in Java. T
 ## Behavioral Patterns
 
 - [Strategy Pattern](strategy-pattern)
+- [Observer Pattern](observer-pattern)
 
 ## Creational Patterns
 - To be implemented

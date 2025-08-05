@@ -11,4 +11,4 @@ This repository serves as a collection of design patterns implemented in Java. T
 - To be implemented
 
 ## Structural Patterns
-- To be implemented
+- [Composite Pattern](composite-pattern)
